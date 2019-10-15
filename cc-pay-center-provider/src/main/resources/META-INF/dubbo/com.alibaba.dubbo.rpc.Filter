@@ -1,0 +1,3 @@
+exceptionFilter=com.cc.center.filter.ExceptionFilter
+dubboContextProviderFilter=com.cc.center.filter.DubboContextProviderFilter
+dubboContextConsumerFilter=com.cc.center.filter.DubboContextConsumerFilter
